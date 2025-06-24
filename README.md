@@ -1,4 +1,4 @@
-# thispersondoesnotexist
+# tpdne
 
 Fetch and optionally save AI-generated faces from thispersondoesnotexist.com
 
@@ -7,7 +7,7 @@ Fetch and optionally save AI-generated faces from thispersondoesnotexist.com
 - Run this command in your project directory:
 
 ```bash
-nimble install thispersondoesnotexist
+nimble install tpdne
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ nimble install thispersondoesnotexist
 ### Import the package
 
 ```nim
-import thispersondoesnotexist
+import tpdne
 ```
 
 ### Fetch a random face
@@ -48,6 +48,6 @@ Philip Wang ([@lucidrains](https://github.com/lucidrains)) - creator of [thisper
 
 ## License
 
-This project is licensed under the terms of the [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html).
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-License-Identifier: MIT

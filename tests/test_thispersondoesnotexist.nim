@@ -1,5 +1,5 @@
 import os, unittest
-import thispersondoesnotexist
+import tpdne
 
 test "fetchImage returns non-empty binary sequence":
   let img = fetchImage()
